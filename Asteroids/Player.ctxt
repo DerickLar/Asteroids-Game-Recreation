@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment10.params=
+comment10.target=void\ hitDetection()
+comment11.params=
+comment11.target=void\ resetPlayer()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ detectPowerup()
+comment4.params=
+comment4.target=void\ shotDetection()
+comment5.params=
+comment5.target=void\ turnShip()
+comment6.params=
+comment6.target=void\ accelerate()
+comment7.params=
+comment7.target=int\ getLives()
+comment8.params=
+comment8.target=void\ loseLife()
+comment9.params=
+comment9.target=void\ gainLife()
+numComments=12

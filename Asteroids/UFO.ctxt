@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UFO
+comment1.params=
+comment1.target=UFO()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ ufoAI()
+comment4.params=direction
+comment4.target=void\ turnToPlayer(int)
+comment5.params=angle
+comment5.target=int\ normalise(int)
+numComments=6

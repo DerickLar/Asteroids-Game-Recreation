@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ScreenShake
+comment1.params=world
+comment1.target=void\ shake(greenfoot.World)
+numComments=2

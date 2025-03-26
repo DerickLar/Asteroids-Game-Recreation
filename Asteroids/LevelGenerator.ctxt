@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LevelGenerator
+comment1.params=world
+comment1.target=LevelGenerator(MyWorld)
+comment2.params=
+comment2.target=void\ generateLevel()
+comment3.params=count
+comment3.target=void\ addAsteroids(int)
+comment4.params=
+comment4.target=void\ addUFO()
+comment5.params=
+comment5.target=void\ addPlayer()
+comment6.params=
+comment6.target=void\ levelUp()
+comment7.params=
+comment7.target=int\ getCurrentLevel()
+numComments=8
